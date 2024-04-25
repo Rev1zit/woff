@@ -12,7 +12,7 @@
         </Style>
 
     </Window.Resources>
-    <Grid>
+    <Grid Background="#FFA773EA">
         <StackPanel HorizontalAlignment="Left" Width="652">
             <Label HorizontalAlignment="Center" Content="Введите данные" Width="652"/>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="493">
